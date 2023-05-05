@@ -1,0 +1,9 @@
+Réponse aux questions
+
+1-la différence entre git pull et git fetch est que : git pull permet de récupérer une branche distante et la fusionne à la branche locale tandis que git fetch permet de récupérer le modifications de la branche distante sans la fuisonner
+
+2-pour annuler les modifications locales non validées il faut juste supprimer les commits.
+
+3- On peut supprimer une branche distante dans Git en utilisant la commande: git branch -d "Nom de la branche"
+
+4-On peut voir l'historique des modifications en utilisant la commande: git log
